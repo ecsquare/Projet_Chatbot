@@ -1,0 +1,867 @@
+Q: Salut 
+A: What you you
+
+Q: Vous etes les bienvenus
+A: What you you you of of have
+
+Q: cv
+A: What you you
+
+Q: cv et vous
+A: What you you you of of have
+
+Q: ca marche 
+A: What you you you of of
+
+Q: je veux devenir entrepreneur
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: C'est quoi une entreprise
+A: What you you you of of have
+
+Q: une entité composée d’hommes et de moyens réunis en vue de poursuivre un objectif
+A: What you you you of of have
+
+Q: Quels sont ces moyens
+A: What you you you of of have
+
+Q: Le capital L’équipement de production les terrains et les bâtiments l’énergie les informations
+A: What you you you of of have
+
+Q: une société individuelle
+A: What you you you of of have
+
+Q: Les sociétés individuelles est constituées par une seule personne.
+A: What you you you of of have
+
+Q: Les sociétés de personnes
+A: What you you you of of have
+
+Q: Elles sont fondées sur la considération de la personne des associés. 
+A: What you you you of of have
+
+Q: La SNC 
+A: What you you you of of
+
+Q: constituée par des associées responsables personnellement et solidairement des dettes de la société
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: la différence des sociétés de personnes et les sociétés de capitaux 
+A: What you you you of of have
+
+Q: La SA 
+A: What you you you of of
+
+Q: La différence entre part social de la SNC et les actions
+A: What you you you of of have
+
+Q: Les actions, contrairement aux parts sociales de la SNC, sont des titres négociables
+A: What you you you of of have
+
+Q: une grande entreprise 
+A: What you you you of of have
+
+Q: il est relativement simple de reconnaître une grande entreprise par importance de l’effectif investissement lourd chiffre d’affaires élevé
+A: What you you you of of have
+
+Q: Quelles sont les dispositions à avoir pour créer une entreprise
+A: What you you you of of have
+
+Q: certaines démarches et formalités comme avoir l’idée et l'étude de marché
+A: What you you you of of have
+
+Q: déterminer le plan financière et déterminer le statut juridique et connaitre les démarche administratives 
+A: What you you you of of have
+
+Q: === 
+A: What you you
+
+Q: Comment avoir le financement  pour votre entreprise
+A: What you you you of of have
+
+Q: Il y a plusieurs établissements publics et privées pour le financement
+A: What you you you of of have
+
+Q: Comment choisir le statut de ma future entreprise
+A: What you you you of of have
+
+Q: quels sont toute les étapes pour créer son entreprise
+A: What you you you of of have
+
+Q: Le niveau de connaissance en création et gestion d’entreprise est-il suffisant
+A: What you you you of of have
+
+Q: il est pas déconseillé de se lancer dans un projet sans un minimum de connaissance
+A: What you you you of of have
+
+Q: L’entreprise sera-t-elle viable et suffisamment rentable 
+A: What you you you of of have
+
+Q: il est nécessaire d’établir des comptes prévisionnels qui intégreront de l’ensemble des dépenses et des investissements à prévoir
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: le porteur de projet a-t-il un profil adéquat pour lancer un tel projet 
+A: What you you you of of have
+
+Q: Pour la première expérience qu’est ce que je dois faire?
+A: What you you you of of have
+
+Q: vous devez  Demander quels sont vos atouts et vos faiblesses et Évaluez bien votre situation financière
+A: What you you you of of have
+
+Q: Je dois trouver des associées
+A: What you you you of of have
+
+Q: Trouvez des associés et Parlez de votre projet autour de vous et Soyez très professionnel 
+A: What you you you of of have
+
+Q: L’entreprise intéressera-t-elle suffisamment de clients
+A: What you you you of of have
+
+Q: Les entreprises accordent de plus en plus d’importance à la satisfaction client
+A: What you you you of of have
+
+Q: Le projet de création d’entreprise est-il réalisable 
+A: What you you you of of have
+
+Q: Le projet de création d’entreprise est réalisable si tous les étapes de création d’une entreprise est respecté
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Quelles seront les principales caractéristiques de l’entreprise 
+A: What you you you of of have
+
+Q: Est-il raisonnable de créer une entreprise en période de crise 
+A: What you you you of of have
+
+Q: C’est la question qui suscite le plus d’interrogations de la part des porteurs de projets
+A: What you you you of of have
+
+Q: Pourquoi l'étude de marché
+A: What you you you of of have
+
+Q: Ai-je des chances de réussir 
+A: What you you you of of have
+
+Q: il faut just chercher de nouvelles opportunités commerciales et Investir intelligemment et Gérer la masse salariale
+A: What you you you of of have
+
+Q: J’ai entendu parler de la digitalisation des entreprises en quoi suis-je concerné 
+A: What you you you of of have
+
+Q: La digitalisation des entreprises consiste à prendre un virage numérique dans la stratégie et l’organisation interne de votre société
+A: What you you you of of have
+
+Q: === 
+A: What you you
+
+Q: Vaut-il mieux créer, reprendre une entreprise pour lancer son affaire 
+A: What you you you of of have
+
+Q: Le choix entre la création ou la reprise d’une entreprise est tout d’abord limité par le budget dont vous disposez 
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Au niveau social, ai-je intérêt à être salarié d’une société ou à être indépendant à titre personnel 
+A: What you you you of of have
+
+Q: l’indépendant peut bénéficier de contrat complémentaire déductible pour compléter la couverture sociale
+A: What you you you of of have
+
+Q: Quels sont les objectifs business que le projet aspire à réaliser 
+A: What you you you of of have
+
+Q: Qui est la partie prenante principale avec la responsabilité suprême de piloter le projet à terme 
+A: What you you you of of have
+
+Q: vos collaborateurs votre hiérarchie vos clients vos fournisseurs, l’Etat et les collectivités, les investisseurs, les actionnaires
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Qui sera responsable de se décider si le projet continue ou pas après les enquêtes préliminaires 
+A: What you you you of of have
+
+Q: certains combats étant perdus d’avance, mieux vaut savoir quand et comment rendre les armes
+A: What you you you of of have
+
+Q: Quels niveaux de décision existent réellement 
+A: What you you you of of have
+
+Q: c’est quoi une décision stratégique 
+A: What you you you of of have
+
+Q: es décisions stratégiques déterminent l'orientation générale de l'entreprise sur le long terme elles sont donc nécessairement porteuses de risques
+A: What you you you of of have
+
+Q: c’est quoi une décision relationnel 
+A: What you you you of of have
+
+Q: c’est quoi une décision tactique 
+A: What you you you of of have
+
+Q: Comment caractériser les décisions dans l'entreprise ?
+A: What you you you of of have
+
+Q: Décider consiste à choisir une solution en comparant plusieurs possibilités
+A: What you you you of of have
+
+Q: c’est quoi le complexe dans la création d’entreprise
+A: What you you you of of have
+
+Q: Quel est le rôle d’un chefs de services 
+A: What you you you of of have
+
+Q: Lun cadre dont la mission consiste à appliquer la politique sociale et de gestion de carrières
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Quel est le rôle d’un directeur 
+A: What you you you of of have
+
+Q: Le directeur général est nommé par le conseil d'administration ou directoire d'une société il représente la société
+A: What you you you of of have
+
+Q: Comment respecter les échéance envisagées 
+A: What you you you of of have
+
+Q: Utilisez la planification, Hiérarchiser vos priorités,Osez dire non
+A: What you you you of of have
+
+Q: Comment motiver le personnel qui acquiert une capacité de décision
+A: What you you you of of have
+
+Q: Pour qu’il puisse pleinement assurer son rôle, il faut le motiver
+A: What you you you of of have
+
+Q: Comment une meilleure coordination des décisions 
+A: What you you you of of have
+
+Q: l’ensemble de la structure d’une entreprise est habituellement représenté par un organigramme qui montre la répartition des domaines d’activité
+A: What you you you of of have
+
+Q: comment faire une meilleure circulation de l'information 
+A: What you you you of of have
+
+Q: La circulation de l’information est un enjeu majeur au sein des entreprises 
+A: What you you you of of have
+
+Q: C’est quoi les bénéfices non commerciaux
+A: What you you you of of have
+
+Q: constituent une catégorie de l'impôt sur le revenu, applicable aux personnes qui exercent une activité professionnelle non commerciale
+A: What you you you of of have
+
+Q: C’est quoi les bénéfices commerciaux et industriels
+A: What you you you of of have
+
+Q: sont les bénéfices réalisés par les personnes physiques qui exercent une activité commerciale, industrielle ou artisanale
+A: What you you you of of have
+
+Q: une personne se définit comme entrepreneur, dès l’instant où elle est détentrice d’un projet à réaliser
+A: What you you you of of have
+
+Q: Est-ce qu’un entrepreneur se définit également par le fait qu’une personne gère une activité ou une société avec des employés 
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: un entrepreneur est un chef d'entreprise qui possède les compétences et la motivation suffisantes pour créer une activité économique
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Comment devenir entrepreneur
+A: What you you you of of have
+
+Q: Trop d'ambition peut il ruiner le projet
+A: What you you you of of have
+
+Q: Comment décider ou aller
+A: What you you you of of have
+
+Q: mon projet est-il rentable 
+A: What you you you of of have
+
+Q: C'est seulement lorsque vous aurez cédé votre affaire que vous pourrez constater la plus-value réalisée 
+A: What you you you of of have
+
+Q: quel est le montant du financement nécessaire pour le lancement de mon projet 
+A: What you you you of of have
+
+Q: Tout dépend de votre plan 
+A: What you you you of of have
+
+Q: Est-il facile obtenir les autorisations exigées
+A: What you you you of of have
+
+Q: les autorisations exigées varient selon votre type d’entreprise et votre secteur d’activité Il vous faut de la patience
+A: What you you you of of have
+
+Q: Quels les domaines qui exigent des autorisations compliquées en Tunisie
+A: What you you you of of have
+
+Q: Pour ce renseigner des differents autorisations liées au différents secteur vou pouvez visiter www.tunisieindustrie.nat.tn
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Comment vendre
+A: What you you you of of
+
+Q: Il est important de réfléchir longuement à ce point pour adapter le mode de distribution aux habitudes de la clientèle
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Je dois prendre la précaution et constituer une épargne
+A: What you you you of of have
+
+Q: Se constituer une épargne de précaution est un préalable indispensable avant d'investir sur des supports risqués
+A: What you you you of of have
+
+Q: Quels sont les principaux points de vigilance qui facilitent l'obtention d'un prêt bancaire
+A: What you you you of of have
+
+Q: L'apport minimum la mise en concurrence des établissements l'accord de prêt la diversification des sources de financement
+A: What you you you of of have
+
+Q: Pourquoi doit-on apporter une attention particulière au choix du produit de substitution
+A: What you you you of of have
+
+Q: Le choix d'un substitut peut être un processus très complexe
+A: What you you you of of have
+
+Q: Pourquoi la substitution est-elle importante 
+A: What you you you of of have
+
+Q: Faut-il que je suivais une formation au préalable 
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: comment anticiper le pic d’activité
+A: What you you you of of have
+
+Q: avoir une parfaite connaissance des opérations promotionnelles et stratégies mises en œuvre
+A: What you you you of of have
+
+Q: Comment convaincre mes partenaires  financiers
+A: What you you you of of have
+
+Q: votre bussiness plan doit refleter un revient important  pour chercher des financements complémentaires 
+A: What you you you of of have
+
+Q: Est-il nécessaire  que mon entourage familial adhère au projet 
+A: What you you you of of have
+
+Q: il peut vous apporter une aide psychologique et matérielle en prenant en charge certaines tâches
+A: What you you you of of have
+
+Q: où se vient la décision d’entreprendre 
+A: What you you you of of have
+
+Q: Nous avons tous des rêves, plus ou moins fous, pour nos vies professionnelles
+A: What you you you of of have
+
+Q: Pourquoi le développement durable est-il si important 
+A: What you you you of of have
+
+Q: est une opportunité unique de repenser nos modèles C’est un levier d’innovation 
+A: What you you you of of have
+
+Q: Où se situe le facteur déterminant pour le succès du projet en terme de viabilité et de pérennité
+A: What you you you of of have
+
+Q: la forme juridique le secteur d'activité le profil du créateur le montant de l'investissement initial l'accompagnement 
+A: What you you you of of have
+
+Q: critère de pérennité
+A: What you you you of of have
+
+Q: l'accompagnement
+A: What you you
+
+Q: Quels sont les caractéristiques de la concurrence en place
+A: What you you you of of have
+
+Q: La stratégie commerciale doit tenir compte des solutions déjà proposées par la concurrence en place
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Des recommandations de l'étude du marché
+A: What you you you of of have
+
+Q: l'étude de marché doit être un test de pré-vente
+A: What you you you of of have
+
+Q: Comment affiner les caractéristiques de mon produits
+A: What you you you of of have
+
+Q: On doit affiner la spécialisation, niveau de qualité, avantages, gamme, présentation, finition, conditions d’emploi
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Comment anticiper les besoins de vos clients 
+A: What you you you of of have
+
+Q: Mieux connaître sa clientèle permet de proposer à ses clients des offres en adéquation avec leurs besoins, leurs comportements
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Quels sont les moyens d’identifier les périodes ainsi que les moments de peak de consommation
+A: What you you you of of have
+
+Q: vous devez faire des prévisions de ventes afin de pouvoir planifier les ressources nécessaires pour répondre à la demande réelle
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Où vendre mon produit 
+A: What you you you of of have
+
+Q: Vos distributeurs doivent être implantés dans des régions où se trouve un nombre suffisant de clients potentiels
+A: What you you you of of have
+
+Q: Comment choisir les canaux de distribution et de points de vente
+A: What you you you of of have
+
+Q: comment se fait la Protection de l'investisseur en bourse
+A: What you you you of of have
+
+Q: le marché boursier est doté d'un ensemble d'institutions qui assurent la protection aux investisseurs en valeurs mobilières
+A: What you you you of of have
+
+Q: Qu'est-ce que la marge commerciale 
+A: What you you you of of have
+
+Q: le rapport entre le prix d'achat des marchandises et leur prix de vente
+A: What you you you of of have
+
+Q: Je fais quoi avec le marge commerciale
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Comment savoir le prix que l’acheteur est prêt à payer 
+A: What you you you of of have
+
+Q: il convient de rester vigilant quand il s'agit de demander à quel montant un client potentiel achèterait un produit
+A: What you you you of of have
+
+Q: La réputation de l’offreur, du producteur ou du vendeur sont des choses importantes
+A: What you you you of of have
+
+Q: Une bonne réputation dans le marché est importante pour pouvoir engager des clients
+A: What you you you of of have
+
+Q: pourquoi assurer une bonne gestion des commandes et de la livraison pour un projet e-commerce
+A: What you you you of of have
+
+Q: Vendre en ligne est un concept commercial global qui nécessite la mise en place d’une organisation adaptée de l’entreprise
+A: What you you you of of have
+
+Q: Comment Promouvoir mon boutique en ligne
+A: What you you you of of have
+
+Q: utiliser les réseaux socials pour diffuser des informations sur vos produits ou vos services 
+A: What you you you of of have
+
+Q: Comment vendre en ligne 
+A: What you you you of of have
+
+Q: Vendre en ligne représente un travail technique, un travail commercial de mise en valeur des produits sur le Net
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: ===
+A: What you you
+
+Q: Comment construire une offre claire et attrayante pour convaincre vos clients potentiels et vous démarquer 
+A: What you you you of of have
+
+Q: Le lead nurturing, comment ça marche 
+A: What you you you of of have
+
+Q: vous permet de couver vos prospects en attendant qu’ils se transforment en fidèles clients de votre compagnie
+A: What you you you of of have
+
+Q: Qui va mieux diriger l’entreprise Moi-même ou avec des associés/collaborateurs 
+A: What you you you of of have
+
+Q: Votre stratégie managériale va déterminer qui va diriger l’entreprise
+A: What you you you of of have
+
+Q: Comment toutes ces personnes se complètent-elles pour former une équipe efficace 
+A: What you you you of of have
+
+Q: Le succès du projet d’entreprise repose sur la fiabilité et l’efficacité de l’équipe à la charge de sa réalisation
+A: What you you you of of have
+
+Q: Les erreurs à éviter dans la gestion d'équipe
+A: What you you you of of have
+
+Q: L’effectif ne fait pas la force d’une équipe
+A: What you you you of of have
+
+Q: Quel est le code du travail en Tunisie
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Quelles sont les connaissances qualifications et les capacités pour atteindre les objectifs fixé
+A: What you you you of of have
+
+Q: de tous les profils possibles, il existe certaines qualités communes susceptibles de décrire un bon entrepreneur
+A: What you you you of of have
+
+Q: Comment être plus efficaces dans ses tâches au travail
+A: What you you you of of have
+
+Q: Il y a toujours une période d’adaptation à un nouvel emploi ou à un changement dans l’organisation où vous travaillez
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: la marge brute
+A: What you you you of of have
+
+Q: Quel est le bon moment de créer une entreprise 
+A: What you you you of of have
+
+Q: Il y a pas un moment nommé meilleur moment de création d’entreprise
+A: What you you you of of have
+
+Q: Que puis-je négocier avec ma banque, que peut-elle m'imposer 
+A: What you you you of of have
+
+Q: Les banquiers ne sont pas de méchants ennemis ataviques des créateurs d'entreprise
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Faudra t il un gros budget de départ
+A: What you you you of of have
+
+Q: Votre budget doit être fixé après une étude financière qui va vous fixer les besoins et les ressources
+A: What you you you of of have
+
+Q: Puis-je emprunter auprès d'une banque
+A: What you you you of of have
+
+Q: Vous avez droit d’emprunt tant que vous répondez à certaines conditions d'éligibilité
+A: What you you you of of have
+
+Q: les petits détails qui détruisent la crédibilité de la société
+A: What you you you of of have
+
+Q: Pour rester fidèles à votre marque, les consommateurs doivent avoir confiance en vous
+A: What you you you of of have
+
+Q: Quelle est la mission de la bourse
+A: What you you you of of have
+
+Q: La gestion du marché tunisien des valeurs mobilières 
+A: What you you you of of have
+
+Q: Le dossier d'escompte est nécessaire pour pouvoir travailler correctement
+A: What you you you of of have
+
+Q: Si vou etes besoin d’escompte vous devez présenter un dossier d’escompte
+A: What you you you of of have
+
+Q: qui peut résoudre les problèmes des promoteurs tunisiens avec un client étranger
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Est ce que  l'état prend en charge totale ou partielle les formations du personnel
+A: What you you you of of have
+
+Q: le promoteur doit disposer d'une décision d'octroi d'avantage délivrée par la structure dont relève son projet  
+A: What you you you of of have
+
+Q: consultez la documentation juridique disponible sur le site web de Fédération Tunisienne des Sociétés d'Assurances www.ftusanet.org
+A: What you you you of of have
+
+Q: Le financement de la formation relève normalement de la compétence du Ministère de la formation professionnelle et de l'emploi www.emploi.gov.tn
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Les banques commerciales demandent des garanties réelles avant d'évaluer le projet 
+A: What you you you of of have
+
+Q: est ce que pour un projet innovant le financement ne peut se faire que suite à la fabrication d'un prototype
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Quel est le rôle des centres d'affaires et est ce que les services fournis sont gratuits ou payants
+A: What you you you of of have
+
+Q: Les centres d’affaires d’intérêt public économique, loi n° 2005-57 du 18 juillet
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Quels sont les services fournis par les pépinières d'entreprises et comment en bénéficier
+A: What you you you of of have
+
+Q: une structure d’accueil et d’accompagnement des créateurs devant fournir un appui sous forme de conseils et d’expertise 
+A: What you you you of of have
+
+Q: La Formation des porteurs d'idées de projets
+A: What you you you of of have
+
+Q: Cette formation interactive est organisée à travers 2 ou 3 cycles par an, au profit des porteurs de projets 
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: L'accompagnement des porteurs de projets
+A: What you you you of of have
+
+Q: consiste à assister les créateurs de projets dans toutes les étapes d'élaboration de leur Plan d'affaires
+A: What you you you of of have
+
+Q: L'hébergement des promoteurs
+A: What you you you of of have
+
+Q: L'hébergement consiste à la mise à disposition des promoteurs des locaux équipés au sein de la pépinière d'entreprise
+A: What you you you of of have
+
+Q: Ce qu'il faut éviter dans la demande de financement
+A: What you you you of of have
+
+Q: Minimiser la somme qu'il est nécessaire d'emprunter pour assurer le bon fonctionnement de votre entreprise
+A: What you you you of of have
+
+Q: Les garanties demandées
+A: What you you you of of have
+
+Q: la banque impose généralement au créateur de fournir des garanties ou sa caution personnelle
+A: What you you you of of have
+
+Q: Que financent-ils 
+A: What you you you of of
+
+Q: on peut noter que les naques privilégient le financement des biens durables
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Que faire en cas de refus de dossier de financement 
+A: What you you you of of have
+
+Q: Le refus ne doit pas être considéré comme un élément négatif mais comme une phase de réflexion supplémentaire 
+A: What you you you of of have
+
+Q: Je dois diversifier les sources de financement
+A: What you you you of of have
+
+Q: Comme les banques souhaitent de plus en plus partager le risque du financement d'un projet de création
+A: What you you you of of have
+
+Q: Est il important que mes charges familiales soient  compatibles avec le projet 
+A: What you you you of of have
+
+Q: Comment choisir mes actions commerciales
+A: What you you you of of have
+
+Q: Une fois l’offre construite, il est temps d'envisager l’organisation de la force de proposition de l'entreprise
+A: What you you you of of have
+
+Q: Quels sont conseils à suivre pour gérer un clientèle de grande consommation
+A: What you you you of of have
+
+Q: Où implanter l'entreprise 
+A: What you you you of of have
+
+Q: Lorsqu’un local est repéré surveillez attentivement le flux des passants et observez les commerces concurrents
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: comment anticiper l’évolution des besoins, des habitudes, des comportements
+A: What you you you of of have
+
+Q: Les données que vous récolterez si bien analysées et si les questions posées sont pertinentes
+A: What you you you of of have
+
+Q: comment faire L’analyse du taux de satisfaction et de son évolution
+A: What you you you of of have
+
+Q: Au fil des questionnaires envoyés à vos clients, vous pouvez mesurer l’évolution du taux d’insatisfaction
+A: What you you you of of have
+
+Q: Pourquoi opter pour le multicanal 
+A: What you you you of of have
+
+Q: La stratégie multicanal provient du développement des différents canaux utilisés par un client au quotidien
+A: What you you you of of have
+
+Q: Qu’est-ce que le multicanal 
+A: What you you you of of have
+
+Q: Le multicanal se caractérise par l’utilisation de différents canaux pour la relation entre l’entreprise et ses prospects/clients
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: le courtier 
+A: What you you you of of
+
+Q: il n’achète pas vos produits, il se charge d’en faire la promotion 
+A: What you you you of of have
+
+Q: le distributeur
+A: What you you you of of
+
+Q: il achète la marchandise puis la revend en prenant une marge
+A: What you you you of of have
+
+Q: Les caractéristique de la vente au détail
+A: What you you you of of have
+
+Q: Elle représente le plus gros réseau de distribution Elle regroupe la vente dans les supermarchés, les épiceries de proximité
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: Les modes de vente de ce canal de distribution d’une vente directe?
+A: What you you you of of have
+
+Q: la vente par téléphone, à domicile, sur les marchés, dans les événements comme les salons professionnels
+A: What you you you of of have
+
+Q: Quelle est les avantages de la vente directe
+A: What you you you of of have
+
+Q: Elle vous permet de vendre directement vos produits ou services aux utilisateurs finaux
+A: What you you you of of have
+
+Q: Quels sont les réseaux de distribution et les acteurs
+A: What you you you of of have
+
+Q: Selon le canal de distribution que vous aurez choisi, vous aurez peut-être besoin de faire appel à des intermédiaires
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: ===
+A: What you you
+
+Q: Est ce que le choix des canaux de distribution est important
+A: What you you you of of have
+
+Q: Bien choisir son canal de distribution est essentiel
+A: What you you you of of have
+
+Q: C’est quoi un canal de distribution
+A: What you you you of of have
+
+Q: Comment Augmenter la marge commerciale
+A: What you you you of of have
+
+Q: Augmenter sa marge commerciale est une action positive qui participe à la rentabilité de l'entreprise
+A: What you you you of of have
+
+Q: Risques d'un prix de vente trop bas
+A: What you you you of of have
+
+Q: Plusieurs menaces pèsent sur vos affaires lorsque les tarifs pratiqués sont trop bas
+A: What you you you of of have
+
+Q: Risques d'un prix de vente trop haut
+A: What you you you of of have
+
+Q: soit dans la tête du client votre offre ne vaut pas ce que vous en demandez, soit le contraire
+A: Behave human ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+
+Q: ===
+A: What you you
+
+Q: comment Estimez le coût de revient
+A: What you you you of of have
+
+Q: Commençons par une équation fondamentale votre chiffre d'affaires doit couvrir vos charges 
+A: What you you you of of have
+
+Q: C’est quoi Le management délégatif
+A: What you you you of of have
+
+Q: L’objectif du manager ayant un style de management délégatif est d’éveiller la créativité de ses collaborateurs et l’esprit d’équipe
+A: What you you you of of have
+
+Q: Le management persuasif
+A: What you you you of of have
+
+Q: Ce style se base sur une structure organisationnelle bien établie et sur des échanges entre les collaborateurs
+A: What you you you of of have
+
+Q: Le management participatif
+A: What you you you of of have
+
+Q: Avec le management participatif, il s’agit d’établir une communication et des échanges entre le manager et ses collaborateurs
+A: What you you you of of have
+
+Q: C’est quoi Le management directif
+A: What you you you of of have
+
+Q: un style où le manager cherche à tout contrôler
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: C’a désigne quoi B2B2C
+A: What you you you of of have
+
+Q: désigne l'activité des entreprises qui commercialisent des biens et des services auprès de sociétés tierces
+A: What you you you of of have
+
+Q: C’est quoi la différence entre un homme d’affaire et un entrepreneur
+A: What you you you of of have
+
+Q: l'entrepreneur n'est pas prioritairement attiré par la maximisation des profits, mais davantage par la pérennisation de son activité
+A: What you you you of of have
+
+Q: Linkedin est il utile
+A: What you you you of of have
+
+Q: LinkedIn est aujourd’hui le réseau social professionnel N°1 au monde
+A: What you you you of of have
+
+Q: comment trouver des événements pour réseauter
+A: What you you you of of have
+
+Q: Meet Up, Eventbrite : les plateformes de réseautage
+A: What you you you of of have
+
+Q: ===
+A: What you you
+
+Q: Quels sont Les règles du networking virtuel
+A: What you you you of of have
+
+Q: Même si les contacts virtuels se nouent plus facilement, leur utilité n’est pas toujours prouvée
+A: What you you you of of have
+
+Q: Quels sont Les règles du networking « physique »
+A: What you you you of of have
+
+Q: la relation entre Networking et franchise?
+A: What you you you of of have
+
+Q: Mutualiser des forces et des compétences, c’est un peu ce que propose le commerce en franchise
+A: What you you you of of have
+
+Q:  
+A: What you you
+
